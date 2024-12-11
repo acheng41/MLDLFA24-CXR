@@ -12,7 +12,10 @@ Overall, previous work focuses on two aspects for domain generalization of medic
 
 ### Repository Details
 
-
+* alexnet_baseline.ipynb : negative and positive controls trained on AlexNet Backbone
+* srm_il_fl.ipynb : SRM model with Image-Level (IL) and Feature-Level (FL) perturnbations
+* episodic_srm_il_fl.ipynb : Episodic Training Scheme on SRM model
+* model_comparison.ipynb : Plotting Training Metrics and Results
 
 ---
 2024 Rena Bi, Andrea Cheng, Emily Guan, Aprina Wang supervised by Xuzhe Zhi and Dr. Mathias Unberath
